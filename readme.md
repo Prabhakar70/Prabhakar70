@@ -9,6 +9,7 @@ Data Science & Analytics Aspirant | Pregrad Mentorship Program
 
 ### 📌 About Me
 - 🎓 **Program:** Data Science & Analytics Mentorship (Pregrad)
+- 🏆 **Hackathon:** Participant in ViCoDathon 2026
 - 📊 **Core Focus:** Exploratory Data Analysis (EDA), Statistical Modeling, and Supervised Machine Learning
 - 💡 **Goal:** Building transparent, end-to-end data science projects to solve real-world problems
 
@@ -34,6 +35,9 @@ Data Science & Analytics Aspirant | Pregrad Mentorship Program
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 * 📈 **[Sales Prediction using Multiple Linear Regression](https://github.com/Prabhakar70/sales-prediction-linear-regression)**  
   *An end-to-end Machine Learning project predicting product sales revenue based on multi-channel advertising budgets (TV, Radio, Newspaper).*
+
+* 🤖 **[AI Interviewer](https://github.com/Prabhakar70/AI-Interviwer)** | [Live Demo](https://ai-interviwer-kwtd.vercel.app/) *(Team Project - ViCoDathon 2026)*  
+  *An AI-powered web application built during ViCoDathon 2026 in a 3-member team for automated interview assessment.*
