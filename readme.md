@@ -37,11 +37,3 @@ Data Science & Analytics Aspirant | Pregrad Mentorship Program
 ### 🚀 Featured Project
 * 📈 **[Sales Prediction using Multiple Linear Regression](https://github.com/Prabhakar70/sales-prediction-linear-regression)**  
   *An end-to-end Machine Learning project predicting product sales revenue based on multi-channel advertising budgets (TV, Radio, Newspaper).*
-
----
-
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakar70&show_icons=true&theme=tokyonight" alt="Prabhakar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakar70&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
